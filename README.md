@@ -12,7 +12,7 @@ The results of this research aim to contribute valuable insights to fields rangi
 ## Research question
 --------------------------------------------------------------------------------------------------------------------------------------------
 How does language in online reviews contribute to sentiment?
-
+language en sentiment (positive and negative) meer specifying
 ## Hypothesis
 --------------------------------------------------------------------------------------------------------------------------------------------
 
