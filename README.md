@@ -15,12 +15,11 @@ How does language in online reviews contribute to sentiment?
 
 ## Hypothesis
 --------------------------------------------------------------------------------------------------------------------------------------------
-How does language in online reviews contribute to sentiment?
+
 Language variations in online customer reviews affect credibility and sentiment, thus influencing consumer decision making. If the language is perceived as credible it will have a positive impact on consumer decision making
 
 ## Method
 --------------------------------------------------------------------------------------------------------------------------------------------
-How does language in online reviews contribute to sentiment?
 The study uses an existing dataset of online reviews from various industries, such as e-commerce, hospitality and services. The choice of this dataset is critical to ensure a representative sample that includes different product types, industries and review platforms. Within the study, tokenization is applied to divide reviews into words or phrases, which forms the basis for further analysis.
 
 Various sentiment analysis techniques are employed to capture the sophisticated sentiments within online reviews. Here, both machine learning models, such as sentiment classifiers, and lexicon-based methods, such as sentiment lexicons, are used to increase accuracy and completeness. Natural language processing (NLP) techniques are applied for feature extraction, identifying the relevant linguistic elements that contribute to the expression of sentiments.
@@ -29,7 +28,6 @@ The results are interpreted in the context of the research question, highlightin
 
 ## Background information
 --------------------------------------------------------------------------------------------------------------------------------------------
-How does language in online reviews contribute to sentiment?
 @article{li2019effect,
   title={The effect of online reviews on product sales: A joint sentiment-topic analysis},
   author={Li, Xiaolin and Wu, Chaojiang and Mai, Feng},
