@@ -1,52 +1,53 @@
 # final-report
 
 
+
 ## General information
 -----------------------------------------------------------------------------------------------------------------------------------------
-The purpose of my research is to examine the relationship between the language used in online reviews and the resulting sentiment. The popularity of online reviews has become ubiquitous in the digital age, influencing consumer decisions, and shaping public thinking. Understanding the language patterns that contribute to sentiment in reviews is of great interest to companies, policymakers, and researchers alike.
+In recent years, the rise of online reviews has played a role in shaping consumer choices and influencing the reputation of products and services. Online reviews have become widespread in the digital age and impact customers' choices and ways of thinking. 
 
-In the study, we use natural language processing (NLP) techniques to analyze a diverse corpus of online reviews across different domains. Using various sentiment analysis tools, we seek to uncover the linguistic nuances that characterize positive, negative, and neutral sentiments in the reviews. The research delves deeper into the contextual factors that influence the expression of sentiments.
-
-The results of this research aim to contribute valuable insights to fields ranging from marketing to consumer behavior to computational linguistics.
+This research paper will focus on specific component of online reviews, namely the influence of specific words in forming positive or negative sentiments. The purpose of my research is to examine the relationship between the use of language in online reviews and the resulting sentiment. The question under discussion is: \textit{how do specific words in online movie reviews contribute to positive or negative sentiments?} The platform where I will examine movie reviews is The Internet Movie Database (IMDb).
 
 ## Research question
 --------------------------------------------------------------------------------------------------------------------------------------------
 How does language in online reviews contribute to sentiment?
-language en sentiment (positive and negative) meer specifying
+
 ## Hypothesis
 --------------------------------------------------------------------------------------------------------------------------------------------
+I expect that differences in the language used in online customer reviews evoke different sentiments and will influence consumers in making decisions. This expectation is based on the idea that the language used in online reviews directly affects customers' feelings, influencing their choices. In my opinion, it is crucial to investigate language variations in online customer reviews to better understand how customers build trust, experience satisfaction and make choices.
 
-Language variations in online customer reviews affect credibility and sentiment, thus influencing consumer decision making. If the language is perceived as credible it will have a positive impact on consumer decision making
+## Motivation
+-------------------------------------------------------------------------------------------------------------------------------------------
+The motivation behind this research is based on the recognition of the important role language plays in online consumer environments. For companies striving to improve consumer trust, satisfaction, and decision-making, understanding the factors that contribute to sentiment in online reviews is critical. By examining the differences in language, we seek to understand how these elements interact and how companies can develop strategies to improve their online reputation. This research provides useful insights that can be used to better understand and influence how customers interact with online reviews.
 
 ## Method
 --------------------------------------------------------------------------------------------------------------------------------------------
-The study uses an existing dataset of online reviews from various industries, such as e-commerce, hospitality and services. The choice of this dataset is critical to ensure a representative sample that includes different product types, industries and review platforms. Within the study, tokenization is applied to divide reviews into words or phrases, which forms the basis for further analysis.
+The research starts with carefully crafting search phrases in order to get pertinent and focused data from current IMDb online reviews.
 
-Various sentiment analysis techniques are employed to capture the sophisticated sentiments within online reviews. Here, both machine learning models, such as sentiment classifiers, and lexicon-based methods, such as sentiment lexicons, are used to increase accuracy and completeness. Natural language processing (NLP) techniques are applied for feature extraction, identifying the relevant linguistic elements that contribute to the expression of sentiments.
+The study applies sentiment analysis techniques to automatically classify reviews' sentiments through text analysis, natural language processing (NLP), and computational approaches. The emphasis is on determining users' attitudes toward various topics and differentiating between "positive" and "negative" feelings. Deliberately selected positive and negative phrases, such "bad," "excellent," and others, are analyzed in order to determine how these terms affect the overall emotional tone of reviews.
 
-The results are interpreted in the context of the research question, highlighting specific linguistic elements that play a role in the expression of sentiments. In doing so, insight is provided into how certain words, phrases or writing styles affect the overall sentiment conveyed in online reviews.
+This technique not only seeks to identify common emotions found in IMDb reviews, but it also acts as a template for more general study findings. Through close examination of carefully chosen terms, the study aims to both understand how certain words affect feelings in online reviews and identify the underlying variables driving consumers' decision-making processes.
 
 ## Background information
 --------------------------------------------------------------------------------------------------------------------------------------------
-@article{li2019effect,
-  title={The effect of online reviews on product sales: A joint sentiment-topic analysis},
-  author={Li, Xiaolin and Wu, Chaojiang and Mai, Feng},
-  journal={Information \& Management},
-  volume={56},
-  number={2},
-  pages={172--184},
-  year={2019},
+@article{hussein2018survey,
+  title={A survey on sentiment analysis challenges},
+  author={Hussein, Doaa Mohey El-Din Mohamed},
+  journal={Journal of King Saud University-Engineering Sciences},
+  volume={30},
+  number={4},
+  pages={330--338},
+  year={2018},
   publisher={Elsevier}
 }
 
-@article{felbermayr2016role,
-  title={The role of emotions for the perceived usefulness in online customer reviews},
-  author={Felbermayr, Armin and Nanopoulos, Alexandros},
-  journal={Journal of Interactive Marketing},
-  volume={36},
-  number={1},
-  pages={60--76},
-  year={2016},
-  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+@article{islam2018comparative,
+  title={Comparative study on machine learning algorithms for sentiment classification},
+  author={Islam, Mohammad Mohaiminul and Sultana, Naznin},
+  journal={International Journal of Computer Applications},
+  volume={182},
+  number={21},
+  pages={1--7},
+  year={2018}
 }
 
